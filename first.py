@@ -267,17 +267,6 @@
 #     print(words[2])
 
 
-
-
-# op = 'From carlson.chris1999@yahoo.com Sat Jan 5 09:14:16 2008'
-
-# line = op.split()
-# email = line[1]
-# pieces = email.split('@')
-# print(pieces[1])
-
-
-
 # ///////////////////SUCCESSFUL/////////////////////
 
 
